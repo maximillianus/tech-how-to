@@ -4,4 +4,13 @@ This repo contains my how to guide to install and initiate new technology.
 Directory guide:
 - **aws_lambda**
   - this is tutorial on how to use AWS lambda
-- *others
+- **Serverless**
+  - upcoming
+- **Python**
+  - upcoming
+- **R**
+  - upcoming
+- **Go**
+  - upcoming
+- **Docker**
+  - upcoming
