@@ -1,4 +1,6 @@
-# How to setup a AWS Lambda Function:
+# AWS Lambda
+
+## How to setup a AWS Lambda Function:
 
 1. using S3 as source:
    - pick S3 as trigger

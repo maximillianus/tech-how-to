@@ -1,5 +1,5 @@
 # tech-how-to
-This repo contains my how to guide to install and initiate new technology.
+This repo contains my how to guide to install and initiate new technology. It is good as a starting point if we want to learn new tech. It is also a good way for me to validate how good I understand the context. I try to dumb this down as much as possible so **anybody** from any background will have as least difficulty as possible to understand this. 
 
 Directory guide:
 - **aws_lambda**
@@ -7,10 +7,22 @@ Directory guide:
 - **Serverless**
   - upcoming
 - **Python**
-  - upcoming
+  - tutorial how to install python
 - **R**
   - upcoming
 - **Go**
-  - upcoming
+  - Tutorial how to install Go.
 - **Docker**
+  - upcoming
+- **ReactJS**
+  - upcoming
+- **ExpressJS**
+  - upcoming
+- **Machine Learning**
+  - upcoming
+- **MongoDB**
+  - upcoming
+- **Redis**
+  - upcoming
+- **PostgreSQL**
   - upcoming
