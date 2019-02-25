@@ -26,3 +26,5 @@ Directory guide:
   - upcoming
 - **PostgreSQL**
   - upcoming
+- **RabbitMQ**
+  - udpated 2019-02-25
