@@ -28,3 +28,9 @@ Directory guide:
   - upcoming
 - **RabbitMQ**
   - udpated 2019-02-25
+- **Metabase**
+  - upcoming
+- **Grafana**
+  - upcoming
+- **OAuth**
+  - upcoming
