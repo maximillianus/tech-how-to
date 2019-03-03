@@ -17,7 +17,7 @@ Directory guide:
 - **ReactJS**
   - upcoming
 - **ExpressJS**
-  - upcoming
+  - updated 2019-03-04
 - **Machine Learning**
   - upcoming
 - **MongoDB**
