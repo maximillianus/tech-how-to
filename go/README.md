@@ -7,6 +7,10 @@
     * **Mac**: `/usr/local/go`
     * **Windows**: *coming soon*
 3. *Add `$GOPATH` into your env variable* (I didn't set $GOPATH env variable but it still works fine)
+    * GOPATH defaults to $HOME/go but we can change that
+    * in Go 1.11, codes not in GOPATH still can work
+    * set GOPATH in bash_profile for Mac or bashrc for Linux. `export GOPATH=$HOME/codes/go`
+    * it is safe to delete or move package under GOPATH to another GOPATH 
 4. create `hello` dir, enter it:
     ```
     mkdir $HOME/Codes/go/src/hello
