@@ -17,7 +17,7 @@ Directory guide:
 - **ReactJS**
   - upcoming
 - **ExpressJS**
-  - upcoming
+  - updated 2019-03-04
 - **Machine Learning**
   - upcoming
 - **MongoDB**
@@ -27,4 +27,12 @@ Directory guide:
 - **PostgreSQL**
   - upcoming
 - **RabbitMQ**
-  - udpated 2019-02-25
+  - updated 2019-02-25
+- **Metabase**
+  - upcoming
+- **Grafana**
+  - upcoming
+- **OAuth**
+  - upcoming
+- **PHP**
+  - updated 2019-03-23
