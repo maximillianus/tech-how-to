@@ -23,9 +23,9 @@ Directory guide:
 - **MongoDB**
   - upcoming
 - **Redis**
-  - upcoming
+  - updated 2019-06-09
 - **Memcached**
-  - upcoming
+  - updated 2019-06-09
 - **PostgreSQL**
   - upcoming
 - **RabbitMQ**
