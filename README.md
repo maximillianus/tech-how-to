@@ -13,7 +13,7 @@ Directory guide:
 - **Go**
   - Tutorial how to install Go.
 - **Docker**
-  - upcoming
+  - in-progress 2019-05-27
 - **ReactJS**
   - upcoming
 - **ExpressJS**
@@ -23,7 +23,9 @@ Directory guide:
 - **MongoDB**
   - upcoming
 - **Redis**
-  - upcoming
+  - updated 2019-06-09
+- **Memcached**
+  - updated 2019-06-09
 - **PostgreSQL**
   - upcoming
 - **RabbitMQ**
