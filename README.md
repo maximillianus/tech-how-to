@@ -38,7 +38,3 @@ Directory guide:
   - upcoming
 - **PHP**
   - updated 2019-03-23
-- **Wiki**
-  - updated 2019-05-27
-- **TestRevert**
-  - updated
