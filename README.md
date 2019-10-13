@@ -4,6 +4,10 @@ This repo contains my how to guide to install and initiate new technology. It is
 Directory guide:
 - **aws_lambda**
   - this is tutorial on how to use AWS lambda
+- **aws_kinesis**
+  - this is tutorial on how to use AWS Kinesis
+- **aws_sns**
+  - this is tutorial on how to use AWS SNS
 - **Serverless**
   - upcoming
 - **Python**
