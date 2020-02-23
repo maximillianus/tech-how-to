@@ -1,0 +1,20 @@
+---
+- hosts: vms
+  become: true
+  vars:
+      ansible_become_password: ubuntu
+  # become_method: su
+  # become_user: ubuntu
+  tasks:
+    - name: Hello World
+      file:
+          path: ~/codes
+          state: directory
+          mode: '0755'
+    - name: Install apache httpd
+      apt:
+          name: apache2
+          state: latest
+          update_cache: yes
+          #- name: Remove Apache
+          #apt: name=apache2 state=absent update_cache=yes autoremove=yes purge=yes
